@@ -5,10 +5,9 @@ Inheritance is currently a complex, bureaucratic and paper-based process. LiV se
 
 ## The Technology
 
-LiV will be using decentralised technologies with an encryption component. We plan on leveraging existing developments done by other LEDGER participants (we are in particular considering Unified Science).  LiV aims to create a simple and interactive Graphical User Interface for communicating with the blockchain system.
-We are evaluating the use of a public non-permissioned blockchain, with smart contracts with restricted users that can interact with, as a permissioned contract.
-Further assessment of existing LEDGER components and developments needs to be done to ensure synergies and collaboration are maximised. 
+LiV will be using decentralised technologies with an encryption component to ensure data privacy and transparency. LiV aims to create a simple and interactive Graphical User Interface for communicating with the blockchain system. We are evaluating the use of a public non-permissioned blockchain, with smart contracts with restricted users that can interact with, as a permissioned contract. We plan on leveraging collaboration with other LEDGER participants to leverage synergies and stronger products built on Open Source.
 
+Our website www.livpoc.com
 ## The Repos
 
 ### LiV_backend
